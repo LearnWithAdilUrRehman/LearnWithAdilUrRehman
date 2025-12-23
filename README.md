@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Adil ur Rehman 👋
 
-<!--
-**LearnWithAdilUrRehman/LearnWithAdilUrRehman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at UET Lahore with a strong foundation in programming, web development, and design.
+I focus on building practical projects and continuously improving my technical depth.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Languages: C++, C#, JavaScript
+- Web: HTML, CSS, Bootstrap, SCSS
+- Backend: Node.js (Learning)
+- Databases: Oracle SQL
+- Design: Photoshop, Illustrator, Canva
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+- Frontend & backend web projects
+- Academic CS projects (DSA, OOP)
+- AI & Robotics (NAVTTC)
+
+## 📌 Goals
+- Build scalable web applications
+- Strengthen problem-solving & system design
+- Grow into a full-stack engineer
+
+## 📫 Connect
+- LinkedIn: (later we’ll add)
